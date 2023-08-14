@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="0.91 r13725"
    width="16"
    height="16"
    viewBox="0 0 16 16"
@@ -25,27 +25,12 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs6">
-    <filter
-       style="color-interpolation-filters:sRGB;"
-       inkscape:label="Invert"
-       id="filter816">
-      <feColorMatrix
-         type="hueRotate"
-         values="180"
-         result="color1"
-         id="feColorMatrix812" />
-      <feColorMatrix
-         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
-         result="color2"
-         id="feColorMatrix814" />
-    </filter>
-  </defs>
+     id="defs6" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -55,7 +40,7 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="871"
+     inkscape:window-width="671"
      inkscape:window-height="480"
      id="namedview4"
      showgrid="false"
@@ -64,19 +49,22 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:zoom="5.9"
-     inkscape:cx="-0.42372881"
+     inkscape:cx="20"
      inkscape:cy="-4"
      inkscape:window-x="0"
-     inkscape:window-y="30"
+     inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg2" />
   <image
      width="16"
      height="16"
      preserveAspectRatio="none"
-     xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABmJLR0QA/wD/AP+gvaeTAAAACXBI WXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH3wkBEBwFECsL7AAAAFlJREFUWMPtlsEKACAIQ6f0/79s pyCCujUF907dHOOJAUKI7th6RERQB5sZAHh2A+OW7Bdn0+kN+CMpGFrUc4DFcqGuAwrQJkDaFtS9 BVvCpg6w/wXpDQghJu5bFidbph1wAAAAAElFTkSuQmCC "
+     xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABmJLR0QA/wD/AP+gvaeTAAAACXBI
+WXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH3wkBEBwFECsL7AAAAFlJREFUWMPtlsEKACAIQ6f0/79s
+pyCCujUF907dHOOJAUKI7th6RERQB5sZAHh2A+OW7Bdn0+kN+CMpGFrUc4DFcqGuAwrQJkDaFtS9
+BVvCpg6w/wXpDQghJu5bFidbph1wAAAAAElFTkSuQmCC
+"
      id="image10"
      x="0"
-     y="0"
-     style="filter:url(#filter816)" />
+     y="0" />
 </svg>

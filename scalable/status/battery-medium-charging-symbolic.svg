@@ -16,7 +16,7 @@
    width="16"
    height="16"
    viewBox="0 0 16 16"
-   sodipodi:docname="network-wireless-signal-ok-symbolic.svg">
+   sodipodi:docname="battery-medium-charging-symbolic.svg">
   <metadata
      id="metadata8">
     <rdf:RDF>
@@ -32,7 +32,7 @@
   <defs
      id="defs6" />
   <sodipodi:namedview
-     pagecolor="#ffffff"
+     pagecolor="#ff6fff"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -40,36 +40,38 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="645"
-     inkscape:window-height="480"
+     inkscape:window-width="1365"
+     inkscape:window-height="709"
      id="namedview4"
      showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:zoom="3.6875"
-     inkscape:cx="32"
-     inkscape:cy="-16"
-     inkscape:window-x="0"
+     inkscape:zoom="11.8"
+     inkscape:cx="13.650696"
+     inkscape:cy="2.9143982"
+     inkscape:window-x="1"
      inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg2" />
-  <image
-     width="16"
-     height="16"
-     preserveAspectRatio="none"
-     xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAABuUlEQVR42u1XyxHEIAi1FEuhFEqx
-M0vLXjzsZJZEEBRd3kyOmcn7QB4pBQKBQCAQCAQCgcDmuK4Lbk+5P6cSLr3P7oQzl/ARAjTSOEJ8
-SwGEbn/vgLyz4yzCJy21XtI5nYK23N5mHI8izXD9TOKNPP4r8fzi+pnEO8hDOhkv854VBQaqPHmc
-d1QijG6boAV56U3gaeZhJvElAjyQz8bEcfk9oEW+45fpsx5rxL5jsfm8CYgPR0XX/fYFYla1yGPy
-DOrjlSLvvx4TBPIgeUw7gIg+/AV5auvP7grE99TrCzPdz7PJt3cfMct9lKZGUJTg7vJUAQbcx9GZ
-5xC3FIBNgog+MkXvge0BNOD+SFd4m/Myc/OjwH0Y6ArVBfGHGGfDhUmRr0tug19OGo/MetdfnASj
-d6iFt/Yi5DopSUx7zyV5Sfwl7ldXsX8QALQXJhH9KmiE+kuS66YwMbU3+p3FCMwEEPQFEMx+GWyF
-OiL8irPBwiy9HZ55D1QX86/l/sNfwu4YEggAgrrc/dE7CgBa8V8lAHeecVCA4loAA8EqU4DpS3BI
-AM35X/UbdCXA9CLkUYDpVTgQCByDDx43c+XrnjiLAAAAAElFTkSuQmCC
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer3" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Layer 1">
+    <image
+       y="0"
+       x="0"
+       id="image3620"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABHNCSVQICAgIfAhkiAAAANJJREFU
+WIXtldERgyAMhqHXARjFEToKI3QER3EkO9HfB4OlUSEgnjzku/NOSMgfIkRjFIUAcTS+isfVAppA
+Div9ztZaa8xyNpoIU7zbK/AMLyEjDt/xkZ8UHq+fCkhJnYGa6qwVAOB2xBwbv0oFJAl86P29Yw9z
+wWeTZC1rpwXg8WME4OgZo3lPiyYkKBH+W5MJPJHPkBI/lQAZPIA5ss3Rzh2ztU+AO0TjQSJem8Dm
+2oRANa1Xcg15vOI+0Ir+/gVHnO39OfqvQMkhrOH2CiiK8gUj/n0Nx37m0gAAAABJRU5ErkJggg==
 "
-     id="image10"
-     x="0"
-     y="0" />
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="16"
+       width="16" />
+  </g>
 </svg>
